@@ -1,0 +1,12 @@
+.navegador{
+    background-color: rgb(223, 33, 207);
+    color: rgb(252, 246, 246);
+    padding: 5x;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
